@@ -1,0 +1,7 @@
+{
+  "name": "edadcanina",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
